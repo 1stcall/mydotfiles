@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 2fcafc97914b4fb6939caa2def99ae7cabe24040 Carl McAlwane <carlmcalwane@hotmail.co.uk> 1660039709 +0000	clone: from github.com:1stcall/mydotfiles.git
+2fcafc97914b4fb6939caa2def99ae7cabe24040 e238dc1acf5f96ff8a694a691dc7d2cd78bf30ea Carl McAlwane <carlmcalwane@hotmail.co.uk> 1660039874 +0000	checkout: moving from development to main
+e238dc1acf5f96ff8a694a691dc7d2cd78bf30ea 22fbfa1bc1ce706404cb0c488ca5b7c2a90fb18d Carl McAlwane <carlmcalwane@hotmail.co.uk> 1660189541 +0000	commit: Added upgrade to update apt
+22fbfa1bc1ce706404cb0c488ca5b7c2a90fb18d 914caf04d40a324ef825262574af52310d2239a9 Carl McAlwane <carlmcalwane@hotmail.co.uk> 1660189652 +0000	pull: Merge made by the 'ort' strategy.

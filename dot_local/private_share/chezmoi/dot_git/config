@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = git@github.com:1stcall/mydotfiles.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "development"]
+	remote = origin
+	merge = refs/heads/development
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[pull]
+	rebase = false
